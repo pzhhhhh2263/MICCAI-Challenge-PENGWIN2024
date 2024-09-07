@@ -1,0 +1,15 @@
+nnunetv2==2.4.2
+numpy
+opencv-python
+Pillow
+albumentations
+seaborn
+torch
+torchvision
+tifffile
+SimpleITK
+scipy
+segmentation-models-pytorch
+batchgenerators
+monai
+scikit-image
