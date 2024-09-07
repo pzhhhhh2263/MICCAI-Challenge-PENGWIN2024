@@ -24,5 +24,3 @@ Big thanks to the following repositories for their contributions and support:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-We welcome contributions! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
