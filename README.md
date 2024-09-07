@@ -14,6 +14,11 @@ This repository contains the code for the PENGWIN 2024 challenge, which focuses 
 - **Python**: 3.9
 - **Pytorch**: 2.3.1
 - **Torchvision**: 0.18.1
+  
+## Requirements
+```
+pip install -r requirements.txt
+```
 
 ## Acknowledgment
 Big thanks to the following repositories for their contributions and support:
