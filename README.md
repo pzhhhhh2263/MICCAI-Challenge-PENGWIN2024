@@ -20,8 +20,10 @@ pip install -r requirements.txt
 ```
 
 
-
 ## TASK1
+
+Configure according to the tutorial in nnunetv2, and replace the official nnunetv2 folder in the GitHub repository with the one from your repository.
+
 
 ### Training
 
@@ -29,8 +31,19 @@ pip install -r requirements.txt
 nnUNetv2_plan_and_preprocess -d DATASET_ID --verify_dataset_integrity
 
 nnUNetv2_train DATASET_NAME_OR_ID UNET_CONFIGURATION FOLD -tr nnUNetTrainer_NexToU_ep500_CosAnneal
-
 ```
+
+
+## TASK2
+
+
+### preprocessing
+
+use makenpz_xray_only1stage.py to preprocessing raw data
+
+### Training
+
+Run the Xray_train_one_stage_3090\xray_main.py to train the model
 
 
 
